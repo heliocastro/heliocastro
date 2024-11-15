@@ -1,9 +1,9 @@
 | [![Helio Chissini de Castro Github Stats][1]][2] | [![Most used Languages][3]][4] |
 | ----------------------------------- | ------------------------ |
 
-[1]: https://github-readme-stats.vercel.app/api?username=heliocastro&show_icons=true&theme=dark
+[1]: https://github-readme-stats.vercel.app/api?username=heliocastro&show_icons=true&theme=vue-dark
 [2]: https://github.com/anuraghazra/github-readme-stats
-[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=heliocastro&theme=dracula&layout=compact&hide=html,javascript,css&langs_count=10
+[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=heliocastro&theme=vue-dark&layout=compact&hide=html,javascript,css&langs_count=10
 [4]: https://github.com/anuraghazra/github-readme-stats
 
 <!--
